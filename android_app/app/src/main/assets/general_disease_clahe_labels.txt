@@ -1,0 +1,4 @@
+Bacterial_Disease
+Fungal_Disease
+Healthy
+Viral_Disease

@@ -1,0 +1,7 @@
+corn
+cucumber
+eggplant
+pepper
+potato
+strawberry
+tomato

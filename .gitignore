@@ -1,0 +1,16 @@
+# Colab ve Jupyter Notebook geçici dosyaları
+.ipynb_checkpoints/
+
+# Python önbellek ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# İşletim sistemi kalıntıları (Mac veya Windows)
+.DS_Store
+Thumbs.db
+
+# İsteğe bağlı: Çok büyük model dosyalarını (örneğin 100MB üstü) yüklemek istemezsen başlarındaki "#" işaretini kaldır
+ *.h5
+ *.tflite
+ *.pt
